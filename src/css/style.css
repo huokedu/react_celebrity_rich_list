@@ -1,0 +1,20 @@
+.dropdown-menu {
+  width: 100%; 
+}
+
+.btn{
+ width: 100%;
+ text-align: left;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 200;
+    text-align: center;
+}
+
+.panel-default>.panel-heading {
+    background-color: #34495e;
+    color: white;
+}
